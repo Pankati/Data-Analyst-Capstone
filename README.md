@@ -1,4 +1,4 @@
-# 📊 IBM Data Analyst Capstone Project
+# 📂 Data Analyst Job Market Trends Dataset
 
 ## 📌 Project Overview
 This capstone project is the final requirement of the **IBM Data Analyst Professional Certificate**.  
